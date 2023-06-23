@@ -46,3 +46,10 @@ body {
     padding: 1em;
     background-color: white;
 }
+
+#footer-container {
+    background-color: beige;
+    height: 30px;
+    text-align: center;
+    padding-top: 10px;
+}
