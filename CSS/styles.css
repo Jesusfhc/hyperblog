@@ -38,6 +38,10 @@ body {
     margin: 0 auto;
 }
 
+#inline-img {
+    width: 300px;
+}
+
 #container h1 {
     font-size: 20px;
     
